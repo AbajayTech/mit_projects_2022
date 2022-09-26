@@ -1,0 +1,36 @@
+h1{
+    color: #1074f8;
+}
+body{
+    background-image: linear-gradient(lightpink,yellowgreen);
+    background-repeat: no-repeat;
+}
+form{
+    color: #da08ea;
+    font-size: larger;
+    font-family: "Arial Black";
+    padding: 20px;
+    border: 10px solid darkred;
+
+}
+label{
+    width: 240px; display: inline-block;
+    text-align: right;
+}
+
+input {
+    width: 75%;
+    padding: 20px 50px;
+    margin: 2px;
+    box-sizing: border-box;
+    border: 5px solid sandybrown;
+}
+
+
+
+input[type=submit]{
+    width: 20%;
+}
+input[type=radio]{
+    width: 150px;
+}

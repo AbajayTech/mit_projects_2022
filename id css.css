@@ -1,0 +1,26 @@
+#COUNTRY{
+    background-color: #008cff;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-family: "Arial Black";
+    border: 20px solid darkred;
+}
+#CAPITAL\ CITY {
+    background-color: aquamarine;
+    padding: 20px;
+    color: #116cea;
+    text-align: center;
+    font-family: "Arial Black";
+    border: 20px dotted #a3e56e;
+}
+#Town {
+    background-color: #eae254;
+    padding: 20px;
+    color: #cd11ea;
+    text-align: center;
+    font-family: "Arial Black";
+    border: 20px solid #1074f8;
+
+}
+

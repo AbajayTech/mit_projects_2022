@@ -1,0 +1,32 @@
+li{
+    width: 75%;
+    alignment: center;
+    margin-right: auto;
+
+}
+ul{
+    color: darkorange;
+    font-family: "Bodoni MT Black";
+    font-size: larger;
+    list-style-position: inside;
+    text-align: center;
+
+
+}
+h2{
+    color: green;
+    text-align: center;
+}
+ol{
+    color: #ffdd00;
+    font-family: "Arial Black";
+    font-size: larger;
+    list-style-position: inside;
+    text-align:center;
+
+
+}
+h1{
+    color: darkred;
+    text-align: center;
+}

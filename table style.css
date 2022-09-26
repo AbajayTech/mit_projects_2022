@@ -1,0 +1,17 @@
+table{
+    font-family: "Dubai Medium";
+    width: 100%;
+    color: deeppink;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px  blue dashed;
+    padding: 10px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
+th{
+    color: maroon;
+}

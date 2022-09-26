@@ -1,0 +1,17 @@
+h1,h2,h3{
+    color: #008cff;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 25px;
+    text-align: center;
+
+}
+p{
+    color: darkred;
+    font-family: Calibri;
+    font-size: 16px;
+}
+body{
+    background-image: url("Images/images (1).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

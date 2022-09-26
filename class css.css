@@ -1,0 +1,20 @@
+.fruits{
+    background-color: red;
+    padding: 20px;
+    color: darkblue;
+    text-align: center;
+    border: 2px solid #ffe32f;
+    margin: 20px;
+    background-image: url("Images/mango image.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+.Cars{
+    background-color: #ee00ff;
+    padding: 20px;
+    color: green;
+    text-align: center;
+    border: 2px dotted darkblue;
+    margin: 20px;
+}
